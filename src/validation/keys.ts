@@ -1,2 +1,2 @@
 export const isRequired = (x: string) =>
-  x === "" ? "Value is required" : true;
+    x === '' ? 'Value is required' : true;
