@@ -1,6 +1,6 @@
 ![COINDEX CLI Hero Image](./docs/hero.jpg)
 
-[https://img.shields.io/github/languages/code-size/EadsGraphic/nodejs-cli]
+![](https://img.shields.io/github/languages/code-size/EadsGraphic/nodejs-cli)
 
 #### Installation
 
